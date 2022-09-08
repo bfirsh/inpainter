@@ -81,7 +81,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Inpainter</title>
+        <title>Inpainting with Stable Diffusion &amp; Replicate</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
 
